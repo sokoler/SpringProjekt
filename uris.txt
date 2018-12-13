@@ -1,2 +1,4 @@
-http://localhost:8080/customers/1
-http://localhost:8080/customers/2
+http://localhost:8080/trips/1
+http://localhost:8080/trips/2
+http://localhost:8080/trips/3
+http://localhost:8080/trips/4
